@@ -7,13 +7,7 @@
 Fresh and Aspiring Data Analyst with strong knowledge in Data Analysis, Visualization, Reporting and Machine Learning. Proficient in SQL, Python, and Excel for Data Manipulation and Analysis, skilled in creating Visualizations and Reports using Power BI and Tableau to provide actionable Insights, experience in identifying trends and patterns in complex datasets using Machine learning, and I’m eager to apply this knowledge to predictive modeling, classification, and regression tasks. Also completed hands-on projects utilizing Excel, SQL, Power BI, Python, and Machine learning to gain practical knowledge. My educational journey marked by self-motivated pursuit of knowledge through various online courses, equipping with technical skills beyond traditional academic settings.
 
 
-<div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
+
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
