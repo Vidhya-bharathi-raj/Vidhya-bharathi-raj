@@ -37,5 +37,4 @@
 
 <br>
 </p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+
