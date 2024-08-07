@@ -8,7 +8,7 @@
 - 💬 Ask me about Data Analysis, Machine Learning
 - 📫 You can reach me via email at [your-email@example.com] or connect with me on LinkedIn
 
-<p>Connect with me on
+<p>To contact me
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
