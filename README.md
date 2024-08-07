@@ -16,12 +16,14 @@ Fresh and Aspiring Data Analyst with strong knowledge in Data Analysis, Visualiz
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+🔭 I’m currently working on Data Analysis Projects
+<h3> About Me </h3>
+🤔 I'm actively seeking a Data Analyst role to leverage my skills in data science and analytics
+🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
+👯 I’m looking to collaborate on Data Analysis, Machine Learning Projects
+💬 Ask me about Data Analysis, Machine Learning
+📫 You can reach me via email at [your-email@example.com] or connect with me on LinkedIn
+
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
 	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
