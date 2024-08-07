@@ -1,6 +1,3 @@
-# Hey there! I’m Vidhya Bharathi Raj, this is my Project Portfolio representing my Data Analyzing and Visualization skills
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vidhya+bharathi+raj!;I'm+a+Aspiring+Data+Analyst...;also+MSc.+Maths+Graduate..;This+is+my+project+portfolio)](https://git.io/typing-svg)
 
