@@ -11,7 +11,6 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-🔭 I’m currently working on Data Analysis Projects
 <h3> About Me </h3>
 - 🤔 I'm actively seeking a Data Analyst role to leverage my skills in data science and analytics
 - 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
