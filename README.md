@@ -2,12 +2,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vidhya+bharathi+raj!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vidhya+bharathi+raj!;I'm+a+Aspiring+Data+Analyst...;I'm+also+MSc.+Mathematics+Graduate)](https://git.io/typing-svg)
 
-
-# I’m looking and great fit for the roles
-
-## Data Analyst    I    Reporting Analyst    I     Analytics Consultant   I    Business Intelligence Analyst    I   MIS Analyst    I       Data Management Analyst    I    Data Manager    I   Analytics Manager   I    Data Research Analyst   I   Research Analyst   I    Quantitative Analyst   I   Data Scientist
 
 <h3> Here's some fun facts about me: </h3>
 
