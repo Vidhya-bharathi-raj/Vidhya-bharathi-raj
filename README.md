@@ -1,4 +1,4 @@
-# Hey there! I’m Vidhya Bharathi Raj, this is my Project Portfolio representing my Data Analyzing and Visualization skills
+#     Hey there! I’m Vidhya Bharathi Raj, this is my Project Portfolio representing my Data Analyzing and Visualization skills
 
 # I’m looking and great fit for the roles
 
