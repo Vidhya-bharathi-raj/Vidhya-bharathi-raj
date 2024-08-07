@@ -18,11 +18,11 @@ Fresh and Aspiring Data Analyst with strong knowledge in Data Analysis, Visualiz
 
 🔭 I’m currently working on Data Analysis Projects
 <h3> About Me </h3>
-🤔 I'm actively seeking a Data Analyst role to leverage my skills in data science and analytics
-🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
-👯 I’m looking to collaborate on Data Analysis, Machine Learning Projects
-💬 Ask me about Data Analysis, Machine Learning
-📫 You can reach me via email at [your-email@example.com] or connect with me on LinkedIn
+- 🤔 I'm actively seeking a Data Analyst role to leverage my skills in data science and analytics
+- 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
+- 👯 I’m looking to collaborate on Data Analysis, Machine Learning Projects
+- 💬 Ask me about Data Analysis, Machine Learning
+- 📫 You can reach me via email at [your-email@example.com] or connect with me on LinkedIn
 
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
