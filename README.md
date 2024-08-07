@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vidhya+bharathi+raj!;I'm+a+Aspiring+Data+Analyst...;I'm+also+MSc.+Mathematics+Graduate..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vidhya+bharathi+raj!;I'm+a+Aspiring+Data+Analyst...;also+MSc.+Mathematics+Graduate..)](https://git.io/typing-svg)
 
 
 <h3> Here's some fun facts about me: </h3>
