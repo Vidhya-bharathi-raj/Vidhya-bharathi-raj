@@ -5,7 +5,7 @@
 - 🤔 I'm actively seeking a Data Analyst related roles to leverage my skills in data science and analytics
 - 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
 -  👯 I’m looking to collaborate on Data Analysis, Machine Learning Projects
-- 💬 Ask me about Data Analysis, Machine Learning
+- 💬 Ask me about Data Analysis, Data Science, Machine Learning
 
 <p>To contact me
   
