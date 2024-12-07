@@ -15,7 +15,7 @@
 <a target="_blank" href="mailto:vidhyabharathiraj2.0@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://neon-crowberry-157.notion.site/VIDHYA-BHARATHI-RAJ-8d6b6f80a5de4a92a7444e16151c927f)
 
 <br>
 </p>
