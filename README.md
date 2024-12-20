@@ -6,7 +6,7 @@
 - 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
 -  👯 I’m looking to collaborate on Data Analysis, Data Science Projects
 - 💬 Ask me about Data Analysis, Data Science, Machine Learning
-
+- 📽️ To know skills see my Pinned projects below
 <p>To contact me
   
 <be>	
