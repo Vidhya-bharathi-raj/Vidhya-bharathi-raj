@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 - 🤔 I'm actively seeking a Data Analyst related roles to leverage my skills in data science and analytics field
-- 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data science and machine learning)
+- 🌱 I have expertise in SQL, Excel, Power BI, and Python (for data analysis)
 - 👯 I’m looking to collaborate on Data Analysis, Data Science Projects
 - 💬 Ask me about Data Analysis, Data Science, Machine Learning
 - 📽️ To see what I learned see my Pinned projects below this
